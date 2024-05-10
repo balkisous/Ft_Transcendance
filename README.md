@@ -1,5 +1,5 @@
 # ft_transcendance
-  L’objectif de ce projet est de reproduire le fonctionnement d’un serveur IRC (Internet Relay Chat), pour que plusieurs client IRC puissent se connecter; réaliser en groupe. 
+   Ce projet consiste à créer un site web pour participer à une compétition du célèbre jeu Pong. En groupe nous avons du nous occuper d’un système de matchMaking, de créer un chat entre les joueurs (privé ou groupe) et de créer un profil d’utilsateur pour chaque joueur. 
 
 ## Démarrer les projets sans Docker:
 
