@@ -13,46 +13,43 @@ It was interesting to code website for the first time and to implement all the p
 * Docker
 * Npm
 * .env (private)
-* Postgres 
+* PostgreSQL
 
 ### Installation 📦
 
-## To begin without Docker
+## To begin without Docker (not recomandary)
 
 ```bash
-cd ./frontend
-npm i
-npm run dev
+~ cd ./frontend
+~ npm i
+~ npm run dev
 ````
 ```bash
-cd ./backend
-npm i
-npm run start:dev
+~ cd ./backend
+~ npm i
+~ npm run start:dev
 ````
    -> Dev mode to work in live
 
-```
-cmd to launch the project -> 
-```
+see pages:
 
-voir les pages:
-
-http://localhost:3000 -> Frontend
+http://localhost:3000 -> Frontend 
 
 
 ### Running the program 💻
 
-* How to run the program
-* Step-by-step bullets
+* Before to launch set the .env file for the backend and frontend, you can find .env.example in the both folder.
+* To launch the project use docker-compose
 ```
-code blocks for commands
+~ docker compose up
 ```
-
-## Help 🛟
-
-Any advise for common problems or issues.
+* To stop the project
+ ```
+~ docker compose stop
 ```
-command to run if program contains helper info
+* To remove containers
+```
+~ docker compose rm -rf
 ```
 
 ## Contributors 👩‍💻
