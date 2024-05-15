@@ -1,20 +1,23 @@
-# Ft_Transcendance 🕸️
+# Ft_Transcendance 🏓
 
-Mon premier projet web qui consiste à créer un site web pour participer à une compétition du célèbre jeu Pong. 
+My first web project which consists of creating a website to participate in a competition of the famous Pong game. 
 
 ## Description 🔍
 
-Projet fait en groupe qui nécesite une création d'un système de matchMaking pour le pong game, d'une création d'un chat entre les joueurs (privé ou groupe) et d'une création d'un profil d’utilsateur pour chaque joueur. Avec ceci pour chaque utilisatuer un affichage de chaque partie joué et un classement entre les joueurs, de plus une fonctionalité pour d'ajout d'ami pour pouvoir joué avec eux !
+Project done in a group which requires the creation of a matchmaking system for the pong game, the creation of a chat between players (private or group) and the creation of a user profile for each player . With this for each user a display of each game played and a ranking between the players, plus a functionality for adding friends to be able to play with them!
+It was interesting to code website for the first time and to implement all the process from the visual (Frontend) to the backstage (Backend and Database). We use Nextjs as framework for the frontend, neastjs as backend ans postgress for the database (using postman for the visual). My part in this project was to implement pong game's side; So the game implementation (frontend and backend, and I use P5 as graphic library ), matchmaking between players and add all the data in the database.😆
 
-## C’est partie pour le commencement ! 🏁
+## Getting started ! 🏁
 
-### Dépendances 🛠️
-
-* Prérequis : Docker, npm, .env, postgres, 
+### Dependencies  🛠️
+* Docker
+* Npm
+* .env (private)
+* Postgres 
 
 ### Installation 📦
 
-## Pour commencer sans Docker
+## To begin without Docker
 
 ```bash
 cd ./frontend
@@ -26,10 +29,10 @@ cd ./backend
 npm i
 npm run start:dev
 ````
-   -> mode developpeur pour travailler en direct 
+   -> Dev mode to work in live
 
 ```
-cmd pour lancer le projet -> 
+cmd to launch the project -> 
 ```
 
 voir les pages:
@@ -37,7 +40,7 @@ voir les pages:
 http://localhost:3000 -> Frontend
 
 
-### Exécution du programme 💻
+### Running the program 💻
 
 * How to run the program
 * Step-by-step bullets
@@ -45,14 +48,14 @@ http://localhost:3000 -> Frontend
 code blocks for commands
 ```
 
-## Aide 🛟
+## Help 🛟
 
 Any advise for common problems or issues.
 ```
 command to run if program contains helper info
 ```
 
-## Auteurs 👩‍💻
-@dediane
-@marieines7
-@balkisous
+## Contributors 👩‍💻
+* @marieines7
+* @dediane
+* @balkisous
