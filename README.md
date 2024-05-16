@@ -17,7 +17,7 @@ It was interesting to code website for the first time and to implement all the p
 
 ### Installation 📦
 
-## To begin without Docker (not recomandary)
+## To begin without Docker (not recommended)
 
 ```bash
 ~ cd ./frontend
