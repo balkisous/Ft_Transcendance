@@ -35,6 +35,8 @@ see pages:
 
 http://localhost:3000 -> Frontend 
 
+## Env file
+* use .env.example to implement your env file in bakckend, frontend folder  
 
 ### Running the program 💻
 
@@ -43,13 +45,13 @@ http://localhost:3000 -> Frontend
 ```
 ~ docker compose up --build
 ```
-* To stop the project
+* To down containers
  ```
-~ docker compose stop
+~ docker compose down
 ```
 * To remove containers
 ```
-~ docker compose rm -rf
+~ docker rm -f $(docker ps -a -q)
 ```
 
 ## Contributors 👩‍💻
