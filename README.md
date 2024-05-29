@@ -45,13 +45,9 @@ http://localhost:3000 -> Frontend
 ```
 ~ docker compose up --build
 ```
-* To down containers
+* To stop and remove all containers
  ```
 ~ docker compose down
-```
-* To remove containers
-```
-~ docker rm -f $(docker ps -a -q)
 ```
 
 ## Contributors 👩‍💻
