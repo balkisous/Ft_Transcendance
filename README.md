@@ -41,7 +41,7 @@ http://localhost:3000 -> Frontend
 * Before to launch set the .env file for the back-end and front-end, you can find .env.example in the both folder.
 * To launch the project use docker-compose
 ```
-~ docker compose up
+~ docker compose up --build
 ```
 * To stop the project
  ```
