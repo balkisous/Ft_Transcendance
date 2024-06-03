@@ -44,11 +44,11 @@ http://localhost:3000 -> Frontend
 * Make sure Docker is running
 * To launch the project use docker-compose
 ```
-~ docker compose up --build
+docker compose up --build
 ```
 * To stop and remove all containers
  ```
-~ docker compose down
+docker compose down
 ```
 And go to (http://localhost:3000) !!
 
