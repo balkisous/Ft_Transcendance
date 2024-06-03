@@ -52,6 +52,12 @@ docker compose down
 ```
 And go to (http://localhost:3000) !!
 
+## Excepted view 
+![Screenshot 2024-06-03 at 19 07 59](https://github.com/balkisous/Ft_Transcendance/assets/76943138/f44465ac-34c6-4da0-966c-83e87bf059e2)
+![Screenshot 2024-06-03 at 19 08 30](https://github.com/balkisous/Ft_Transcendance/assets/76943138/6f335881-2929-433e-a818-90a4b8a02494)
+
+
+
 ## Contributors 👩‍💻
 * @marieines7
 * @dediane
