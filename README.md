@@ -41,6 +41,7 @@ http://localhost:3000 -> Frontend
 ## Running the program 💻
 
 * Before to launch set the .env file for the back-end and front-end, you can find .env.example in the both folder.
+* Make sure Docker is running
 * To launch the project use docker-compose
 ```
 ~ docker compose up --build
@@ -49,7 +50,7 @@ http://localhost:3000 -> Frontend
  ```
 ~ docker compose down
 ```
-And go to [http](http://localhost:3000) !!
+And go to (http://localhost:3000) !!
 
 ## Contributors 👩‍💻
 * @marieines7
