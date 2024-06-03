@@ -17,7 +17,7 @@ It was interesting to code website for the first time and to implement all the p
 
 ### Installation 📦
 
-## To begin without Docker (not recommended)
+### To begin without Docker (not recommended)
 
 ```bash
 ~ cd ./frontend
@@ -38,7 +38,7 @@ http://localhost:3000 -> Frontend
 ## Env file
 * use .env.example to implement your env file in bakckend, frontend folder  
 
-### Running the program 💻
+## Running the program 💻
 
 * Before to launch set the .env file for the back-end and front-end, you can find .env.example in the both folder.
 * To launch the project use docker-compose
@@ -49,6 +49,7 @@ http://localhost:3000 -> Frontend
  ```
 ~ docker compose down
 ```
+And go to [http](http://localhost:3000) !!
 
 ## Contributors 👩‍💻
 * @marieines7
